@@ -1,4 +1,4 @@
-<h1 align="center">FELIPEzord</h1>
+<h1 align="center">FELIPEZORD</h1>
 
 <p align="center">
   Estudante em desenvolvimente de sistemas
